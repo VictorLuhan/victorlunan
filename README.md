@@ -21,7 +21,9 @@
  <img src ="https://1.bp.blogspot.com/-01ThfbHBmw4/WlC7rq65opI/AAAAAAAAHgs/5QWw8Vf4k-EPx6L5nfwEfbLnF6OW7D48wCLcBGAs/s1600/linguagem-c.png" width="40" height="40>
 </div>
 
+</br>
 ---
+
 
 <div align = "after">
 <img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
