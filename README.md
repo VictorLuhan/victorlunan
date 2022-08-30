@@ -14,6 +14,8 @@
 - Aprendendo back-end 💛
 - Cursando Análise e Desenvolvimento de sistemas🖤
 
+---
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
  <img src ="https://1.bp.blogspot.com/-01ThfbHBmw4/WlC7rq65opI/AAAAAAAAHgs/5QWw8Vf4k-EPx6L5nfwEfbLnF6OW7D48wCLcBGAs/s1600/linguagem-c.png" width="40" height="40>
